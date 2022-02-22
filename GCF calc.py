@@ -11,3 +11,4 @@ while num1 != num2:
         num2=num2-num1
 
 print("HCF of",x,"and",y,"=",num1)
+
