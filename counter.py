@@ -33,6 +33,7 @@ while a<1000:
     f=f+1
     print(f)
 
+
     g=g+1
     print(g)
 
