@@ -1,2 +1,2 @@
 # Random
-Collection of random tests
+Collection of random tests and tools
